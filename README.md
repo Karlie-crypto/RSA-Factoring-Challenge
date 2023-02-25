@@ -1,6 +1,6 @@
 # RSA-Factoring-Challenge
 
-![RSA-Image](images/RSA-img.JPG)
+![undraw_programming_re_kg9v](https://user-images.githubusercontent.com/110098940/219950176-b01d033c-dde0-4727-879b-cfe5575af5e0.png)
 
 ## Description
 
@@ -88,7 +88,7 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 
 ## Author
 
-[David Atat](www.github.com/daveeazi)
+[Karlie Moyo](www.github.com/karlie-crypto)
 
 ## Resources
 
